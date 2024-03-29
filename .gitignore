@@ -11,3 +11,6 @@ Cargo.lock
 /rust-practice/target
 
 .vscode
+
+/testing/myapp/.vscode
+/testing/myapp/target
