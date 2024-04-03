@@ -1,5 +1,10 @@
 # rust-practice
 
+
+#### Create Rust Folder
+
+        cargo new [project_name]
+
 #### Installations
 
 - clippy (like a linter)
